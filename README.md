@@ -5,3 +5,4 @@
  - [yksz/go-design-patterns](https://github.com/yksz/go-design-patterns)
  - [jeanphorn/go-design-patterns](https://github.com/jeanphorn/go-design-patterns)
  - [sensorario/go-design-patterns](https://github.com/sensorario/go-design-patterns)
+ - [tmrts/go-patterns](https://github.com/tmrts/go-patterns)
