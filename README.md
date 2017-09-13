@@ -1,6 +1,6 @@
 # Awesome go
 
-## Go design pattern
+## Go design patterns
 
  - [yksz/go-design-patterns](https://github.com/yksz/go-design-patterns)
  - [jeanphorn/go-design-patterns](https://github.com/jeanphorn/go-design-patterns)
