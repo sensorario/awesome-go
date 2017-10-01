@@ -9,3 +9,4 @@
  - [monochromegane/go_design_pattern](https://github.com/monochromegane/go_design_pattern)
  - [huytd/go-design-patterns](https://github.com/huytd/go-design-patterns)
  - [girikuncoro/go-design-pattern](https://github.com/girikuncoro/go-design-pattern)
+ - [PacktPublishing/Go-Design-Patterns](https://github.com/PacktPublishing/Go-Design-Patterns)
