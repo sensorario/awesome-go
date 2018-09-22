@@ -10,3 +10,4 @@
  - [huytd/go-design-patterns](https://github.com/huytd/go-design-patterns)
  - [girikuncoro/go-design-pattern](https://github.com/girikuncoro/go-design-pattern)
  - [PacktPublishing/Go-Design-Patterns](https://github.com/PacktPublishing/Go-Design-Patterns)
+ - [ismayilmalik/golang-design-patterns](https://github.com/ismayilmalik/golang-design-patterns)
